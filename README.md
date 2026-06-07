@@ -17,5 +17,7 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+email: email@gmail.com
+senha: "essa e a senha"
 
 ![Alt text](./passwd.png "Optional title")
